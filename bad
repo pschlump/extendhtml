@@ -1,2 +1,0 @@
-	"text/template"       "github.com/pschlump/extend"
-	"text/template/parse" "github.com/pschlump/extend/parse"
